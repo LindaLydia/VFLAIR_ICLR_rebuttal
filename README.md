@@ -1,1 +1,1 @@
-# This is a repository for providing links to rebuttal images for VFLAIR
+# This is a repository for providing links to images necessary for discussion for VFLAIR
